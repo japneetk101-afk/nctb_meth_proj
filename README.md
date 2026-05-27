@@ -1,6 +1,14 @@
-# nctb_meth_proj
 # Association Between Smoking Status and DNA Methylation in a South African Population
+Integrating genetic and socioeconomic data from a South African population to identify CpG sites exhibiting differential methylation associated with smoking status. 
 
+## Scripts
+
+### `prep_dset.R`
+*
+
+### `cpg_overlap.R`
+
+###
 
 [2-3 sentence overview of project]
 bullet point .R scripts and .ipynb (very briefly what each script does)
