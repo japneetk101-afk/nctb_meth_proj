@@ -7,8 +7,21 @@ Integrating genetic and socioeconomic data from a South African population to id
 *
 
 ### `cpg_overlap.R`
+*
 
-###
+### `meth_analysis.R`
+*
+
+### `log_reg.R`
+*
+
+### `bees_setup.R`
+*
+
+### `man_plot.R`
+*
+
+### `path_analysis.R`
 
 [2-3 sentence overview of project]
 bullet point .R scripts and .ipynb (very briefly what each script does)
