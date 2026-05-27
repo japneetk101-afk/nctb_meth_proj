@@ -1,7 +1,7 @@
 # Association Between Smoking Status and DNA Methylation in a South African Population
 Integrating genetic and socioeconomic data from a South African population to identify CpG sites exhibiting differential methylation associated with smoking status. 
 
-## Scripts
+## R Scripts
 
 ### `prep_dset.R`
 *
